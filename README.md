@@ -4,11 +4,11 @@
 
 # VPN-Configuration
 
-Here I will quickly go over how to set up a VPN(specifically Proton VPN) within the virtual machine and how to use it.
+Here I will quickly go over how to set up a VPN(specifically Proton VPN) within a virtual machine and how to use it.
 
 <h2>Tools Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure
 - Remote Desktop
 - Proton VPN
 
@@ -28,7 +28,7 @@ Here I will quickly go over how to set up a VPN(specifically Proton VPN) within 
 
 <img width="1149" alt="Screenshot 2025-02-05 at 01 48 52" src="https://github.com/user-attachments/assets/1912b519-a130-4b10-87ae-6bdbcc7710c5" />
 
-- Once I logged in to the Windows VM I went to the website *What's My IP Address* to see my VMs IP address and IP information.
+- Once I logged into the Windows VM I went to the website "*What's My IP Address*" to see my VMs IP address and IP information.
 
 <img width="1305" alt="Screenshot 2025-02-05 at 01 53 06" src="https://github.com/user-attachments/assets/40cd3fad-82a6-4df7-b5d3-5a2ac203e6f3" />
 
