@@ -18,7 +18,7 @@ Here I will quickly go over how to set up a VPN(specifically Proton VPN) within 
 
 <h2>Setting Up The VPN</h2>
 
-- I started by creating a Windows 10 virtual machine in Azure with 2vcpus & 8GB of memory to ensure that the VM ran at a reasonable speed.
+- I started out by creating a Windows 10 virtual machine in Azure with 2vcpus & 8GB of memory to ensure that the VM ran at a reasonable speed.
 
 <img width="1181" alt="Screenshot 2025-02-05 at 01 45 15" src="https://github.com/user-attachments/assets/a5f60d90-69cf-49d6-bd22-2504f127a0b5" />
 
@@ -44,7 +44,7 @@ Here I will quickly go over how to set up a VPN(specifically Proton VPN) within 
 
 <img width="600" alt="Screenshot 2025-02-05 at 02 00 02" src="https://github.com/user-attachments/assets/90b37e17-a1ad-40cc-9460-82bdf372f833" />
 
-- After the installation was done I logged into the VPN and connected to it, and my location was changed to the Netherlands.
+- After the installation was done I logged into the VPN and connected to it, and my location was changed to The Netherlands.
 
 <img width="1298" alt="Screenshot 2025-02-05 at 02 00 50" src="https://github.com/user-attachments/assets/2bf8aff2-ddc6-48d2-80dd-a81d00d494c5" />
 
@@ -54,7 +54,7 @@ Here I will quickly go over how to set up a VPN(specifically Proton VPN) within 
 
 <img width="1295" alt="Screenshot 2025-02-05 at 02 03 12" src="https://github.com/user-attachments/assets/a57a9fdc-cb41-4f94-8882-987337283f4d" />
 
-- I then went back to the Mcdonald's website and refreshed it and the content on the website was based on the McDonalds in the Netherlands.
+- I then went back to the Mcdonald's website and refreshed it and the content on the website was based on the McDonalds in The Netherlands.
 
 <img width="1697" alt="Screenshot 2025-02-05 at 02 06 00" src="https://github.com/user-attachments/assets/86d37cd3-9ddf-42c0-8214-1c576e60500f" />
 
