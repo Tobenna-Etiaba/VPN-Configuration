@@ -32,7 +32,7 @@ Here I will quickly go over how to set up a VPN(specifically Proton VPN) within 
 
 <img width="1305" alt="Screenshot 2025-02-05 at 01 53 06" src="https://github.com/user-attachments/assets/40cd3fad-82a6-4df7-b5d3-5a2ac203e6f3" />
 
-- Seeing that I'm located in London I decided to go to McDonald's website, and from the image above, the content on the website is based on the UK's McDonalds.
+- Seeing that I'm located in London I decided to go to McDonald's website, and from the image below, the content on the website is based on the UK's McDonalds.
 
 <img width="1701" alt="Screenshot 2025-02-05 at 01 54 58" src="https://github.com/user-attachments/assets/ebddefe6-884a-4f0e-9685-cf34e7714c42" />
 
